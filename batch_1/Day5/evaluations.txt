@@ -1,0 +1,11 @@
+13 Oct 25
+SNO	Name		Marks
+1	Saumya Sinha	0
+2	Ajitabh		0
+3	Varun		0
+4	Anushka		1
+5	Krishna		0
+6	Daksh Yadav	cheating
+7	Adarsh		3
+8	Jaskirat	3
+9	Ranjan		0
