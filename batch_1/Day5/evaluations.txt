@@ -9,3 +9,17 @@ SNO	Name		Marks
 7	Adarsh		3
 8	Jaskirat	3
 9	Ranjan		0
+10	Tanisq		7
+11	Rohit		10
+12	Gaurav		8
+13	Arth		10
+14	Dharmik		8
+15	Arushi		5
+16	Jeet		5
+17	Aareen		10
+18	Aadhya		5
+19	Manya		10
+20	Anshu		5
+21	Raghuvinder	3
+22	Arpit		5
+
