@@ -5,20 +5,25 @@
 int main() {
 
 int num ;
-  num = 512345 ;
+
+  printf("enter a number:");
+  scanf("%d%",&num);
+
   while(num!=0){
-  num= num%10 ;
-    if(num=4){
+
+    if(num=(num/10)%10){
+    printf("%d ",num);
    break ;
     }
-    printf("%d ",num);
+
     }
     while(num!=0){
      num= num%10 ;
-     if(num=5) {
+     if(num=num%10) {
+     printf("%d ",num);
      break ;
      }
-     printf("%d ",num);
+
 
 
     }
