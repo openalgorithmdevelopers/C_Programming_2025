@@ -1,23 +1,22 @@
 #include <stdio.h>
 int main()
 {
-    int num, i, last, q, a = 0;
+    int num, i, last, q, a;
     printf("enter any number:");
     scanf("%d", &num);
 
     i = num % 10;
-    i = i * 10;
 
     q = num;
-    while (q != 0)
+    while (q >= 10)
     {
         q = q / 10;
-        a++;
     }
 
-    last = i + a;
+    a= q*10;
+
+    last = a + i;
     printf("%d", last);
     return 0;
 }
-
 
