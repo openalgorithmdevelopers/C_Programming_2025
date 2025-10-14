@@ -1,0 +1,9 @@
+14 Oct 25
+
+SNo.	Name		Marks
+1	Aishwarya	0
+2	Amishi 		0
+3	Vedansh		0
+4	Vinamra		10
+5	Ashi		0
+6	Shreya		0	
