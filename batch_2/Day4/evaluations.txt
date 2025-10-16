@@ -20,3 +20,7 @@ SNo.	Name		Marks
 17	Adarsh		8
 18	Dhairya		8
 19	Aastha		2
+20	Sanyom		4
+21	Shambhavi	2
+22	Kashvi		2
+23	Aditya		4	
