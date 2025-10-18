@@ -1,4 +1,0 @@
-These sequence of commands are used everytime we eigther push our code. 
-
-git pull && git push -u origin main
-git add my_file && git commit -m "my_comments" && git pull && git push -u origin main

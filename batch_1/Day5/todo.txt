@@ -1,7 +1,0 @@
-TOday's Task: ( number of digits is not known)
-Based upon the last digit of your sap id, perform below tasks
-1) ending in 0,1	: WAP to print first(highest significant) the first digit of a number provided by user.
-2) ending in 2,3	: WAP to print first(highest significant) the second digit of a number provided by user.
-3) ending in 4,5	: WAP to print first(highest significant) the third digit of a number provided by user.
-4) ending in 6,7	: WAP to print sum of first(highest significant) and second digit of a number provided by user.
-5) ending in 8,9	: WAP to print sum of first(highest significant) and second and third digit of a number provided by user.
