@@ -1,9 +1,11 @@
 #include<stdio.h>
 
-int main() {
+int main() 
+{
 	int i=1;
 
-	while (i<=14) {
+	while (i<=14) 
+   {
 	  if (i%3 !=0)  
 
 		printf("%d ", i);
