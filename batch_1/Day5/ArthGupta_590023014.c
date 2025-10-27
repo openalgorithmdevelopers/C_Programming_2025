@@ -16,7 +16,7 @@ int main()
  }
 
  while(digCount != 0)
- {
+{ 
   int rem = num % 10;
   if(digCount == 3)
   {
