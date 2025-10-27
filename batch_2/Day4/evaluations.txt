@@ -1,0 +1,26 @@
+14 Oct 25
+
+SNo.	Name		Marks
+1	Aishwarya	0
+2	Amishi 		0
+3	Vedansh		0
+4	Vinamra		10
+5	Ashi		0
+6	Shreya		0	
+7	Lakshay		2
+8	Suvansh		0
+9	Akansha		4
+10	Abeer		1
+11	Rudra Pratap	8
+12	Sarthak		4
+13	Sujal		7
+14	Aadi		4
+15	Devansh		3
+16	Hemang		7
+17	Adarsh		8
+18	Dhairya		8
+19	Aastha		2
+20	Sanyom		4
+21	Shambhavi	2
+22	Kashvi		2
+23	Aditya		4	
