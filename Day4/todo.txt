@@ -1,2 +1,25 @@
 Today's Task
 
+Write the function for below tasks as per the last digit of your roll no:
+
+0,1) Write a function which receives nothing and prints characters from A to Z
+0,1) Write a function which receives nothing and prints 3 8 15 24 35 48
+
+2,3) Write a function which receives  a number and returns its Factorial
+2,3) Power
+
+4, 5) Write a function which receives  a number and returns “Sum of natural nos” upto the number
+
+5, 6) Write a function which receives  a number and returns the count of the “No of its digits”
+
+7, 8) Write a function which receives  a number and returns its SOD
+
+9)	Write a function which receives  a number and returns if its Palindrome or not in the form of 
+i.	Return 1, if yes
+ii.	Return 0, if no
+9)	Write a function which receives  a number (“n”) and prints “n” terms of the Fibonacci series
+e.g.
+I/P: n = 8
+O/P: 0 1 1 2 3 5 8 13
+
+Additionally declare the function and call it suitably from int main().
