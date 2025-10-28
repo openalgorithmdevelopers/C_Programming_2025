@@ -4,3 +4,6 @@ SNO	Name		Marks
 2	Sanyom		10
 3	Suvansh		10
 4	Abeer		10
+5	Aadi		7
+6	Tithi		0
+7	Rohan		0
