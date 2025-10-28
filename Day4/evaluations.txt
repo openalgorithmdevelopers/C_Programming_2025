@@ -1,0 +1,4 @@
+SNO	Name		Marks
+
+1	Rudra		10 
+2	Sanyom		10

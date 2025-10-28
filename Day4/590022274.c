@@ -12,12 +12,14 @@ int main()
         ans= sumofnatnum(num);
 
         printf("%d", ans);
+
         return 0;
 }
 
 int sumofnatnum(int num)
 {
         int sum = num*(num+1)/2;
+
         return sum;
 }
 
