@@ -6,7 +6,7 @@ Write the function for below tasks as per the last digit of your roll no:
 0,1) Write a function which receives nothing and prints 3 8 15 24 35 48
 
 2,3) Write a function which receives  a number and returns its Factorial
-2,3) Power
+2,3) Write a function which receives  2 numbers and returns power of one number raised to the another 
 
 4, 5) Write a function which receives  a number and returns “Sum of natural nos” upto the number
 
