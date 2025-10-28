@@ -7,3 +7,11 @@ SNO	Name		Marks
 5	Aadi		7
 6	Tithi		0
 7	Rohan		0
+8	Lakshya		10
+9	Sujal		0
+10	Hemang		10
+11	Viraj		0
+12	Sarthak		10
+13	Vedansh		0
+14	Shambhavi	0
+15	Aashi		0
