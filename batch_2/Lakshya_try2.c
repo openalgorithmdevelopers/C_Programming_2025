@@ -1,15 +1,17 @@
 #include<stdio.h>
 int main()
 {
-        int i, j, count = 0, countB = 0;   
-	char a = ' ';                      
+        int i, j, count = 0, countB = 0;  
+        char a = ' ';                     
 
         for(i=1;i<=9;i++)
         {
+                count = 0;                
                 for(j=1;j<=9;j++)
                         count++;
-                printf("%d",i);           
-                if(count==i)
+                printf("%d ", i);         
+
+		if(count==9)               
                 {
                         printf("\n");
                 }
@@ -33,7 +35,7 @@ int main()
                 printf("\n");
         }
 
-        printf("0         0\n");     
+        printf("0         0\n");          
 
         for(i=1;i<=5;i++)
         {
@@ -60,9 +62,10 @@ int main()
                         printf("%d",j);
                         countB++;         
                 }
-                if(countB==i)
+                if(countB==9)              
                 {
                         printf("\n");
+                        countB = 0;       
                 }
         }
         return 0;
